@@ -6,7 +6,7 @@
   
 # Способы связи
 [Telegram](https://t.me/riskofstorm)  
-[Email](riskofstorm@gmail.com)  
+[Email](fake@mail[.]com)  
   
 ## Навыки и технологии  
 #### HardSkills  
