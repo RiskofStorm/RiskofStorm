@@ -20,7 +20,7 @@
   - PostgreSQL  
   - Oracle  
   - Docker
-  - k8
+  - k8s
   - cloud AWS, Heroku, Yandex
   - MongoDB
 #### Soft Skill  
