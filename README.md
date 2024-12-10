@@ -19,7 +19,10 @@
   - Kafka  
   - PostgreSQL  
   - Oracle  
-  - Docker  
+  - Docker
+  - k8
+  - cloud AWS, Heroku, Yandex
+  - MongoDB
 #### Soft Skill  
   - декомпозиция сложных задач  
   - поиск решения проблем  
