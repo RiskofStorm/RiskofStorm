@@ -9,7 +9,7 @@
 [Email](fake@mail[.]com)  
   
 ## Навыки и технологии  
-#### HardSkills  
+#### Hard Skills  
   - Greenplum  
   - Apache Airflow  
   - Apache Hadoop  
@@ -20,7 +20,7 @@
   - PostgreSQL  
   - Oracle  
   - Docker  
-#### SoftSkill  
+#### Soft Skill  
   - декомпозиция сложных задач  
   - поиск решения проблем  
   - самостоятельные исследования  
